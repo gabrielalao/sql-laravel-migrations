@@ -1,1 +1,1 @@
-15 tables created and updated in SQL on 12/15/2019
+14 tables created and updated in SQL on 10/12/2019
